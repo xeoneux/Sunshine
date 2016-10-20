@@ -9,9 +9,8 @@
     tools:context="com.example.android.sunshine.app.DetailActivity$DetailFragment">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/detail_text"
-        android:text="@string/hello_world" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </RelativeLayout>
